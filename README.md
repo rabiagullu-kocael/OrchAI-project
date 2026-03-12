@@ -88,6 +88,8 @@ GPT-4o  GPT-4o  Sonnet
 | `documents` | RAG için kaynak dokümanlar |
 | `trace_logs` | Token, maliyet, latency, route logları |
 
+Not: RAG için documents koleksiyonunda içerikler manuel olarak eklenmiştir.JSON formatında hazır mesaj ve yanıtlar verilmiştir.
+
 ---
 
 ## Özellikler
