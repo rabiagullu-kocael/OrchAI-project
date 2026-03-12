@@ -14,7 +14,7 @@
 - [Kullanım](#kullanım)
 - [API Endpoint'leri](#api-endpointleri)
 - [10 Senaryo Test Çıktısı](#10-senaryo-test-çıktısı)
-- [Kabul Kriterleri Karşılama Durumu](#kabul-kriterleri-karşılama-durumu)
+
 
 ---
 
