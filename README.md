@@ -1,6 +1,6 @@
 # OrchAI — LLM Orchestration Backend
 
-> Gelen kullanıcı isteklerini analiz ederek üç farklı akışa (Direct / RAG / Web) yönlendiren, MongoDB destekli hafıza yönetimi ve token/maliyet takibi içeren FastAPI tabanlı LLM orkestrasyon sistemi.
+> Gelen kullanıcı isteklerini analiz ederek üç farklı akışa (Direct / RAG / Web) yönlendiren, MongoDB destekli hafıza yönetimi ve token/maliyet takibi içeren FastAPI tabanlı LLM orkestrasyon sistemi kurgulanmıştır.
 
 ---
 
