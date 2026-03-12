@@ -241,7 +241,7 @@ uvicorn main:app --reload
 ### .env Yapısı
 
 ```env
-MONGO_URI=mongodb+srv://kullanici:sifre@cluster.mongodb.net/
+MONGO_URI=mongodb+srv:/*****
 MONGO_DB_NAME=orchai_db
 OPENAI_API_KEY=sk-proj-...
 CLAUDE_API_KEY=sk-ant-api03-...
